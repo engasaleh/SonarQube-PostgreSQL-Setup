@@ -51,6 +51,3 @@ docker exec -t postgres pg_dumpall -U sonar > sonarqube_backup.sql
 3. Restart  
 
 ---
-
-## **📜 License**  
-MIT License - See [LICENSE](LICENSE)  
